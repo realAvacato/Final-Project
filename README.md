@@ -6,3 +6,6 @@ I looked at the example project as a guide to help me build everything. I'm not 
 I used mongoDB to host the employees table from a JSON. The connection string is mongodb+srv://root:gthgthgth@ds2002.20qvgzt.mongodb.net/test
 
 The azure server I used had server name as mysql-czhong.mysql.database.azure.com and Server admin login name:dsadmin 
+
+
+For the mySQL portion I used the same code from the midterm so I didn't upload it again.
